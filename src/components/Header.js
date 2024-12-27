@@ -10,7 +10,7 @@ const Header = () => {
                 <h1>Hi, I'm Naveen Prakaasham Vairaprakasam</h1>
                 {/* <p>Bug Bounty Hunter</p><br/> */}
                 <br></br>
-                <a className='button' href="mailto:naveenprakaasam@gmail.com">Get In Touch</a>
+                <a className='button' href="mailto:vairapra@usc.edu">Get In Touch</a>
             </div>
         </section>
     );
